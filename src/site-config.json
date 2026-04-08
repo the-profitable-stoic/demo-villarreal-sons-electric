@@ -1,0 +1,554 @@
+{
+  "business": {
+    "name": "Villarreal & Sons Electric",
+    "phone": "+19153512444",
+    "category": "electrician",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Trusted Electricians",
+      "heroSubline": "Reliable electrical services for homes and businesses. Licensed and insured, serving El Paso for over a decade.",
+      "aboutTitle": "Decades of Electrical Expertise in El Paso",
+      "aboutText": [
+        "Villarreal & Sons Electric started as a small family operation right here in El Paso. My father taught my brothers and me the trade. We learned early on the value of hard work, doing things right the first time, and treating every customer like family.",
+        "Our approach is simple: honest assessments, clear communication, and meticulous workmanship. We don't cut corners, and we stand behind every job we do. We use only quality materials that can handle the El Paso climate, ensuring long-lasting results.",
+        "We're committed to the El Paso community. We support local schools and organizations, and we actively participate in neighborhood improvement projects. Villarreal & Sons Electric is more than just a business; it's our way of giving back."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Licensed, insured, and highly trained electricians with years of experience in El Paso."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear and detailed estimates before starting any work."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. We're available around the clock to handle urgent situations."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We take pride in our work and guarantee customer satisfaction. Your safety and peace of mind are our top priorities."
+        }
+      ],
+      "ctaHeadline": "Need Electrical Work Done?",
+      "ctaSubline": "Call Villarreal & Sons Electric today for a free estimate. We're ready to handle any electrical challenge in El Paso."
+    },
+    "services": [
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensure your El Paso home's electrical system meets modern demands with a panel upgrade.",
+        "description": "Is your El Paso home's electrical panel outdated or insufficient for your current needs? Older panels can struggle to handle the increased demands of modern appliances, electronics, and air conditioning, especially during those hot summer months. A panel upgrade from Villarreal & Sons Electric ensures your home has the power it needs, safely and reliably.\n\nWe'll assess your current electrical load and recommend the appropriate panel size to meet your demands, now and in the future. Our experienced electricians will handle the entire upgrade process, from obtaining necessary permits to safely disconnecting and replacing your old panel. We'll also ensure proper grounding and surge protection to safeguard your home and appliances from power surges, common in El Paso during monsoon season.\n\nDon't risk overloading your electrical system. A panel upgrade is an investment in your home's safety and value. Contact Villarreal & Sons Electric for a free consultation and estimate.",
+        "process": [
+          "Assessment of current electrical load.",
+          "Permit acquisition (if required).",
+          "Safe disconnection and removal of old panel.",
+          "Installation of new electrical panel.",
+          "Thorough testing and inspection."
+        ],
+        "benefits": [
+          "Increased electrical capacity.",
+          "Improved safety and reliability.",
+          "Protection against overloads and surges.",
+          "Peace of mind knowing your home is electrically sound."
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequently tripped breakers, flickering lights, and the inability to run multiple appliances simultaneously. If you're experiencing any of these issues, it's time to call us."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "Typically, a panel upgrade can be completed in one day. We always keep you informed of the timeline."
+          },
+          {
+            "question": "Is it safe to upgrade an electrical panel myself?",
+            "answer": "No. Electrical panel upgrades are dangerous and should only be performed by a licensed and qualified electrician. Improper installation can lead to serious injury or even death."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Brighten your El Paso home with expert lighting installation services.",
+        "description": "From recessed lighting to chandeliers, Villarreal & Sons Electric provides professional lighting installation services for homes and businesses in El Paso. We understand the importance of proper lighting for both aesthetics and functionality, especially in our unique desert environment.\n\nWe can help you choose the right lighting fixtures for any room, considering factors like energy efficiency, light output, and style. We also specialize in outdoor lighting, enhancing your home's curb appeal and security. Whether you're looking to illuminate your patio for those warm El Paso evenings or add security lighting to your property, we have the expertise to get the job done right.\n\nOur electricians are skilled in all aspects of lighting installation, from wiring and connections to fixture mounting and dimming controls. We ensure that all installations meet local electrical codes and are performed safely and efficiently. Let Villarreal & Sons Electric transform your home with beautiful and functional lighting.",
+        "process": [
+          "Consultation and design planning.",
+          "Fixture selection and procurement.",
+          "Wiring and electrical connections.",
+          "Fixture mounting and installation.",
+          "Testing and adjustments."
+        ],
+        "benefits": [
+          "Improved aesthetics and ambiance.",
+          "Increased energy efficiency.",
+          "Enhanced safety and security.",
+          "Customized lighting solutions."
+        ],
+        "faq": [
+          {
+            "question": "What type of lighting is best for energy efficiency?",
+            "answer": "LED lighting is the most energy-efficient option, using significantly less energy than traditional incandescent bulbs and lasting much longer."
+          },
+          {
+            "question": "Can you install smart lighting systems?",
+            "answer": "Yes, we are experienced in installing and configuring smart lighting systems that can be controlled remotely via smartphone or voice command."
+          },
+          {
+            "question": "Do I need a permit for lighting installation?",
+            "answer": "In some cases, a permit may be required, especially for new construction or significant electrical modifications. We can advise you on permit requirements and handle the application process."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-and-switch-repair",
+        "name": "Outlet and Switch Repair",
+        "shortDescription": "Reliable outlet and switch repair services for El Paso homes and businesses.",
+        "description": "Faulty outlets and switches can be a nuisance and a safety hazard. If you're experiencing problems with your outlets or switches, such as sparking, buzzing, or not working at all, it's important to have them repaired promptly by a qualified electrician.\n\nVillarreal & Sons Electric provides expert outlet and switch repair services for homes and businesses throughout El Paso. We can diagnose and repair a wide range of issues, from loose wiring to damaged components. We also offer outlet upgrades, including GFCI outlets for bathrooms and kitchens, which are required by code for safety.\n\nOur electricians use only quality replacement parts and follow strict safety protocols to ensure that all repairs are performed correctly and safely. Don't take chances with faulty electrical components. Contact Villarreal & Sons Electric for fast and reliable outlet and switch repair services.",
+        "process": [
+          "Diagnosis of the problem.",
+          "Safe disconnection of power.",
+          "Repair or replacement of faulty components.",
+          "Testing and verification of proper function.",
+          "Cleanup of work area."
+        ],
+        "benefits": [
+          "Improved safety.",
+          "Restored functionality.",
+          "Prevention of further damage.",
+          "Peace of mind knowing your electrical system is safe and reliable."
+        ],
+        "faq": [
+          {
+            "question": "Why is my outlet sparking?",
+            "answer": "Sparking outlets can be caused by loose wiring, damaged components, or overloaded circuits. It's important to have a sparking outlet inspected and repaired immediately to prevent a fire."
+          },
+          {
+            "question": "What is a GFCI outlet?",
+            "answer": "A GFCI (Ground Fault Circuit Interrupter) outlet is designed to protect against electrical shock by quickly cutting off power if a ground fault is detected. They are required in areas where water is present, such as bathrooms and kitchens."
+          },
+          {
+            "question": "How often should I replace my outlets and switches?",
+            "answer": "Outlets and switches should be replaced if they are damaged, worn out, or no longer functioning properly. As a general rule, it's a good idea to have them inspected every few years."
+          }
+        ]
+      },
+      {
+        "slug": "ceiling-fan-installation",
+        "name": "Ceiling Fan Installation",
+        "shortDescription": "Stay cool in El Paso with professional ceiling fan installation services.",
+        "description": "Ceiling fans are an excellent way to improve air circulation and reduce energy costs in your El Paso home, especially during our long, hot summers. Villarreal & Sons Electric provides professional ceiling fan installation services for all types of homes, from traditional adobe houses to modern suburban dwellings.\n\nWe can install ceiling fans in any room, including bedrooms, living rooms, and patios. We'll ensure that the fan is properly mounted and wired for safe and reliable operation. We also offer a variety of ceiling fan options to choose from, including fans with lights, remote controls, and energy-efficient motors.\n\nOur experienced electricians will handle the entire installation process, from wiring and mounting to balancing and testing. We'll also clean up the work area and ensure that you're completely satisfied with the installation. Stay cool and comfortable with a new ceiling fan from Villarreal & Sons Electric.",
+        "process": [
+          "Assessment of ceiling structure.",
+          "Wiring and electrical connections.",
+          "Fan mounting and balancing.",
+          "Testing and verification of proper function.",
+          "Cleanup of work area."
+        ],
+        "benefits": [
+          "Improved air circulation.",
+          "Reduced energy costs.",
+          "Enhanced comfort.",
+          "Increased home value."
+        ],
+        "faq": [
+          {
+            "question": "Can I install a ceiling fan myself?",
+            "answer": "While it's possible to install a ceiling fan yourself, it's generally recommended to hire a professional electrician to ensure that the fan is properly installed and wired safely."
+          },
+          {
+            "question": "What size ceiling fan do I need?",
+            "answer": "The appropriate ceiling fan size depends on the size of the room. A larger room will require a larger fan to effectively circulate air."
+          },
+          {
+            "question": "How high should a ceiling fan be mounted?",
+            "answer": "A ceiling fan should be mounted at least 7 feet above the floor for safety. If your ceilings are lower than 8 feet, you may need to use a hugger-style fan."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-surge-protection",
+        "name": "Whole-House Surge Protection",
+        "shortDescription": "Protect your El Paso home from power surges with whole-house surge protection.",
+        "description": "Power surges can damage or destroy your valuable electronics and appliances, especially during El Paso's monsoon season when lightning strikes are common. Whole-house surge protection is an effective way to safeguard your entire home from these damaging surges.\n\nVillarreal & Sons Electric provides professional whole-house surge protection installation services for homes and businesses in El Paso. We'll install a surge protector at your electrical panel, which will intercept and divert surges before they can reach your sensitive electronics.\n\nOur experienced electricians will assess your home's electrical system and recommend the appropriate surge protection solution for your needs. We use only quality surge protectors and follow strict safety protocols to ensure that your home is properly protected. Don't risk losing your valuable electronics to a power surge. Contact Villarreal & Sons Electric for whole-house surge protection.",
+        "process": [
+          "Assessment of electrical system.",
+          "Selection of appropriate surge protector.",
+          "Installation of surge protector at electrical panel.",
+          "Testing and verification of proper function.",
+          "Explanation of surge protection features."
+        ],
+        "benefits": [
+          "Protection against power surges.",
+          "Prevention of damage to electronics and appliances.",
+          "Peace of mind knowing your home is protected.",
+          "Increased lifespan of electronics."
+        ],
+        "faq": [
+          {
+            "question": "What causes power surges?",
+            "answer": "Power surges can be caused by lightning strikes, power grid issues, or even the startup and shutdown of appliances within your home."
+          },
+          {
+            "question": "How does whole-house surge protection work?",
+            "answer": "A whole-house surge protector diverts excess voltage away from your electrical system, preventing it from reaching your sensitive electronics and appliances."
+          },
+          {
+            "question": "Is whole-house surge protection worth the investment?",
+            "answer": "Absolutely. The cost of a whole-house surge protector is minimal compared to the cost of replacing damaged electronics and appliances."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-inspections",
+        "name": "Electrical Inspections",
+        "shortDescription": "Ensure your El Paso home's electrical safety with a comprehensive inspection.",
+        "description": "Whether you're buying a new home, renovating your existing one, or simply want to ensure your electrical system is safe and up to code, Villarreal & Sons Electric provides thorough electrical inspections for homes and businesses in El Paso.\n\nOur licensed electricians will conduct a comprehensive inspection of your electrical system, checking for potential hazards, code violations, and other issues. We'll provide you with a detailed report outlining our findings and recommendations for any necessary repairs or upgrades.\n\nAn electrical inspection can help you identify potential problems before they become serious, saving you time and money in the long run. It can also provide peace of mind knowing that your home's electrical system is safe and reliable. Contact Villarreal & Sons Electric for a professional electrical inspection.",
+        "process": [
+          "Visual inspection of wiring, outlets, and switches.",
+          "Testing of electrical components and circuits.",
+          "Identification of potential hazards and code violations.",
+          "Preparation of detailed inspection report.",
+          "Discussion of findings and recommendations."
+        ],
+        "benefits": [
+          "Improved safety.",
+          "Identification of potential problems.",
+          "Code compliance.",
+          "Peace of mind."
+        ],
+        "faq": [
+          {
+            "question": "How often should I have an electrical inspection?",
+            "answer": "It's recommended to have an electrical inspection every 3-5 years, or whenever you're buying, selling, or renovating a home."
+          },
+          {
+            "question": "What does an electrical inspection include?",
+            "answer": "An electrical inspection includes a thorough examination of your electrical system, including wiring, outlets, switches, and electrical panel."
+          },
+          {
+            "question": "How long does an electrical inspection take?",
+            "answer": "The length of an electrical inspection depends on the size and complexity of your home, but it typically takes 2-4 hours."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "Villarreal & Sons Electric is proud to serve the El Paso community. We understand the unique electrical needs of homes and businesses in this vibrant city, from the historic homes in Sunset Heights to the modern developments in the Eastside. Our team of experienced and licensed electricians is dedicated to providing reliable and safe electrical services throughout El Paso.\n\nWe offer a comprehensive range of electrical services, including electrical repairs, installations, upgrades, and maintenance. Whether you need a simple outlet repair or a complete rewiring of your home, Villarreal & Sons Electric is here to help. We are committed to providing excellent customer service and ensuring your satisfaction with every project we undertake.",
+        "localContext": "El Paso is a dynamic city with a rich cultural heritage and a growing economy. We're familiar with the local building codes and regulations to ensure all work is up to standard.",
+        "nearbyAreas": [
+          "Socorro",
+          "Anthony",
+          "Canutillo"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "Villarreal & Sons Electric extends its expert electrical services to the residents and businesses of Socorro, TX. We recognize the diverse electrical needs of this growing community, from older homes requiring upgrades to new constructions needing reliable installations. Our commitment is to provide Socorro with safe, efficient, and affordable electrical solutions.\n\nOur skilled electricians are equipped to handle a wide array of electrical projects, including panel upgrades, lighting installations, and wiring repairs. We prioritize safety and adhere to the highest industry standards to ensure the job is done right the first time. Trust Villarreal & Sons Electric for all your electrical needs in Socorro.",
+        "localContext": "Socorro is a close-knit community with a blend of residential and commercial areas. We understand the specific electrical demands of Socorro's homes and businesses.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "Villarreal & Sons Electric is dedicated to providing top-notch electrical services to the town of Anthony, TX, and its surrounding areas. We understand the needs of both the residential and commercial properties in Anthony, from small wiring fixes to large-scale installations. Our goal is to ensure that every customer receives reliable, safe, and efficient electrical services.\n\nWe offer a full spectrum of electrical solutions, including troubleshooting, repairs, installations, and maintenance. No matter the size of the project, our licensed electricians are committed to delivering exceptional workmanship and customer satisfaction. Choose Villarreal & Sons Electric for all your electrical needs in Anthony.",
+        "localContext": "Anthony is a growing community with a mix of residential and agricultural properties. We are familiar with the unique electrical challenges presented by these diverse properties.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Sunland Park"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "Villarreal & Sons Electric proudly serves the community of Canutillo, TX, providing reliable and professional electrical services. We understand the unique character of Canutillo, from its established neighborhoods to its newer developments. Our experienced electricians are committed to delivering top-quality workmanship and exceptional customer service.\n\nWe offer a comprehensive range of electrical services, including repairs, installations, upgrades, and inspections. Whether you need assistance with a faulty outlet or a complete electrical system overhaul, Villarreal & Sons Electric is here to help. We are dedicated to ensuring the safety and efficiency of your electrical systems in Canutillo.",
+        "localContext": "Canutillo is a historic community with a strong sense of local pride. We are committed to serving the electrical needs of Canutillo's residents and businesses with integrity and professionalism.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "Villarreal & Sons Electric provides expert electrical services to the residents of Horizon City, TX. As Horizon City continues to grow, we are dedicated to meeting the increasing demand for reliable and professional electrical services. Our team of licensed electricians is committed to providing safe and efficient solutions for all your electrical needs.\n\nWe offer a wide range of services, including new construction wiring, electrical repairs, and upgrades. Whether you are building a new home or need to update your existing electrical system, Villarreal & Sons Electric is here to help. We are committed to exceeding your expectations with our quality workmanship and exceptional customer service.",
+        "localContext": "Horizon City is a rapidly growing suburban community in El Paso County. We are familiar with the local building codes and regulations to ensure all work is up to standard.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "Villarreal & Sons Electric is proud to offer its electrical services to the community of Clint, TX. We understand the unique needs of this area, from residential repairs to commercial installations. Our team of experienced and licensed electricians is dedicated to providing reliable and safe electrical solutions.\n\nOur services include electrical repairs, installations, upgrades, and maintenance. Whether you need a simple fix or a complete rewiring, Villarreal & Sons Electric is here to assist you. We are committed to providing excellent customer service and ensuring your satisfaction with every project.",
+        "localContext": "Clint is a small town with a strong sense of community. We are familiar with the local building codes and regulations in Clint.",
+        "nearbyAreas": [
+          "Socorro",
+          "San Elizario",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "Villarreal & Sons Electric is pleased to serve the historic community of San Elizario, TX. We understand the unique electrical needs of the older homes and buildings in this area, as well as the requirements of new constructions. Our team of skilled electricians is dedicated to providing reliable and safe electrical services.\n\nWe offer a comprehensive range of electrical services, including repairs, installations, upgrades, and maintenance. Whether you need to address outdated wiring or install new lighting, Villarreal & Sons Electric is here to help. We are committed to preserving the character of San Elizario while ensuring the safety and efficiency of your electrical systems.",
+        "localContext": "San Elizario is a historic town with a rich cultural heritage. We are committed to providing respectful and professional electrical services to the residents and businesses of San Elizario.",
+        "nearbyAreas": [
+          "Socorro",
+          "Clint",
+          "Fabens"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "Villarreal & Sons Electric is dedicated to providing top-quality electrical services to the residents and businesses of Vinton, TX. We understand the diverse electrical needs of this community, from residential repairs to commercial installations. Our team of experienced and licensed electricians is committed to delivering safe, reliable, and efficient solutions.\n\nWe offer a wide range of services, including electrical repairs, installations, upgrades, and inspections. Whether you need assistance with a faulty outlet or a complete electrical system overhaul, Villarreal & Sons Electric is here to help. We are dedicated to ensuring the safety and efficiency of your electrical systems in Vinton.",
+        "localContext": "Vinton is a growing community with a mix of residential and commercial properties. We are familiar with the local building codes and regulations to ensure all work is up to standard.",
+        "nearbyAreas": [
+          "Canutillo",
+          "Anthony",
+          "El Paso"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Villarreal & Sons Electric upgraded our old electrical panel in our Kern Place home. They were professional, on time, and explained everything clearly. Our lights don't flicker anymore! Highly recommend.",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David R.",
+        "rating": 4,
+        "service": "Outlet Repair",
+        "text": "Had a couple of faulty outlets in my office downtown. Villarreal & Sons Electric came out quickly and fixed them. Quick, efficient, and reasonably priced.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Linda S.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "We hired Villarreal & Sons Electric to install new recessed lighting in our kitchen. They did an amazing job! The new lighting completely transformed the space. The team was courteous and cleaned up everything after they were done.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Jose M.",
+        "rating": 5,
+        "service": "Ceiling Fan Installation",
+        "text": "Villarreal & Sons Electric installed a ceiling fan on my back patio. Appreciate the quick service and fair price. Finally enjoying the El Paso evenings outside!",
+        "date": "2024-10-01"
+      },
+      {
+        "name": "Patricia L.",
+        "rating": 4,
+        "service": "Electrical Inspection",
+        "text": "We were buying a new house and wanted an electrical inspection. Villarreal & Sons Electric was very thorough and found a few minor issues. Glad we caught them before closing!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Whole-House Surge Protection",
+        "text": "After a recent lightning strike, I decided to invest in whole-house surge protection. Villarreal & Sons Electric installed it quickly and professionally. Definitely worth the peace of mind, especially during monsoon season in El Paso.",
+        "date": "2025-01-20"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Villarreal & Sons Electric | El Paso Electrician",
+        "description": "Trusted electrician in El Paso, TX. Electrical repairs, installations, and upgrades for homes and businesses."
+      },
+      "about": {
+        "title": "About Us | Villarreal & Sons Electric - El Paso",
+        "description": "Learn about Villarreal & Sons Electric, El Paso's leading electrician. Family-owned, experienced, and committed to quality."
+      },
+      "services": {
+        "title": "El Paso Electrical Services | Villarreal & Sons Electric",
+        "description": "Comprehensive electrical services in El Paso, TX. Panel upgrades, lighting, outlets, surge protection, and more."
+      },
+      "contact": {
+        "title": "Contact Villarreal & Sons Electric | El Paso, TX",
+        "description": "Contact Villarreal & Sons Electric for reliable electrical services in El Paso. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Villarreal & Sons Electric Reviews | El Paso, TX",
+        "description": "Read reviews for Villarreal & Sons Electric in El Paso. See why our customers trust us for their electrical needs."
+      },
+      "service-areas": {
+        "title": "Service Areas | Villarreal & Sons Electric",
+        "description": "Villarreal & Sons Electric provides electrical services to El Paso and surrounding areas. Find out if we serve your location."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-and-switch-repair": "/images/service-outlet-and-switch-repair.webp",
+      "ceiling-fan-installation": "/images/service-ceiling-fan-installation.webp",
+      "whole-house-surge-protection": "/images/service-whole-house-surge-protection.webp",
+      "electrical-inspections": "/images/service-electrical-inspections.webp"
+    },
+    "servicesResponsive": {
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-and-switch-repair": {
+        "src": "/images/service-outlet-and-switch-repair.webp",
+        "srcset": "/images/service-outlet-and-switch-repair-400w.webp 400w, /images/service-outlet-and-switch-repair-800w.webp 800w, /images/service-outlet-and-switch-repair-1200w.webp 1200w, /images/service-outlet-and-switch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ceiling-fan-installation": {
+        "src": "/images/service-ceiling-fan-installation.webp",
+        "srcset": "/images/service-ceiling-fan-installation-400w.webp 400w, /images/service-ceiling-fan-installation-800w.webp 800w, /images/service-ceiling-fan-installation-1200w.webp 1200w, /images/service-ceiling-fan-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-surge-protection": {
+        "src": "/images/service-whole-house-surge-protection.webp",
+        "srcset": "/images/service-whole-house-surge-protection-400w.webp 400w, /images/service-whole-house-surge-protection-800w.webp 800w, /images/service-whole-house-surge-protection-1200w.webp 1200w, /images/service-whole-house-surge-protection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-inspections": {
+        "src": "/images/service-electrical-inspections.webp",
+        "srcset": "/images/service-electrical-inspections-400w.webp 400w, /images/service-electrical-inspections-800w.webp 800w, /images/service-electrical-inspections-1200w.webp 1200w, /images/service-electrical-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
